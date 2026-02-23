@@ -1,4 +1,4 @@
-# 01. Environment Setup
+# 01. Install VMware Workstation
 
 This guide demonstrates how to install VMware Workstation 17
 
