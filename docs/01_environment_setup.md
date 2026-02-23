@@ -1,30 +1,26 @@
 # 01. Environment Setup
 
-This guide demonstrates how to build a Kubernetes cluster from scratch on Ubuntu using VMware.
+This guide demonstrates how to install VMware Workstation 17
 
-## Requirements
+## Target
 
-- VMware Workstation 17
-- Ubuntu 24.04 ISO
-- At least 2 VMs (1 master, 1 worker)
-- 4GB RAM per VM (recommended 8GB for master)
+- Intall VMware Workstation 17
 
 ---
 
-## Step 1: Install VMware
+## Step 1: Register
 
 Download VMware Workstation from:
 https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
 
-Install with default settings.
+Register for free if you haven't
+Login
+Click DOWNLOAD NOW
+
 
 ---
 
-## Step 2: Create Ubuntu Virtual Machine
+## Step 2: Download Page
 
-1. Create new VM
-2. Select Ubuntu ISO
-3. Assign hostname:
-   - master (for control plane)
-   - worker (for compute node)
-4. Allocate disk space (recommend 40GB+ for master)
+1. Click My Downloads
+2. Click HERE
