@@ -1,4 +1,4 @@
-# 01. Install VMware Workstation
+<img width="1208" height="630" alt="image" src="https://github.com/user-attachments/assets/df4aa132-06e1-42ed-ae4a-b815ca078586" /># 01. Install VMware Workstation
 
 This guide demonstrates how to install VMware Workstation 17
 
@@ -15,13 +15,25 @@ https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
 
 1. Register for free if you haven't
 2. Login
-3. Click DOWNLOAD NOW
+3. Click `DOWNLOAD NOW`
 ![VMware_page](../images/圖1.png)
 
 ---
 
 ## Step 2: Download Page
 
-1. Click My Downloads
-2. Click HERE
+1. Click `My Downloads`
+2. Click `HERE`
 ![Download_page](../images/圖2.png)
+
+3. Find Vmware Workstation Pro. Click on it
+![Search_VMware_Workstation_Pro](../images/圖3.png)
+
+4. Choose any version
+![Version](../images/圖4.png)
+
+## Step 3: Downloading
+1. Click on `Terms and Conditions`. Read it
+2. Now you can mark on the checkbox
+3. And now you download by clicking the icon
+![Version](../images/圖5.png)
