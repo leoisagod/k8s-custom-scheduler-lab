@@ -35,5 +35,5 @@ https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
 ## Step 3: Downloading
 1. Click on `Terms and Conditions`. Read it
 2. Now you can mark on the checkbox
-3. And now you download by clicking the icon
+3. And now you can download by clicking on the icon
 ![Version](../images/圖5.png)
