@@ -1,4 +1,4 @@
-<img width="1208" height="630" alt="image" src="https://github.com/user-attachments/assets/df4aa132-06e1-42ed-ae4a-b815ca078586" /># 01. Install VMware Workstation
+# 01. Install VMware Workstation
 
 This guide demonstrates how to install VMware Workstation 17
 
