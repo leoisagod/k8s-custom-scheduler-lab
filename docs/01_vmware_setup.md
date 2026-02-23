@@ -36,4 +36,9 @@ https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
 1. Click on `Terms and Conditions`. Read it
 2. Now you can mark on the checkbox
 3. And now you can download by clicking on the icon
-![Version](../images/圖5.png)
+![Download](../images/圖5.png)
+
+## Step 4: Installation
+1. Find the file that you have just downloaded.
+2. Open it. Keep clicking `next` until `finish`, and you have installed VMware Workstation!
+![Installation](../images/圖6.png)
