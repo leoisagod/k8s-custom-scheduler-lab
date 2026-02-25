@@ -15,7 +15,7 @@ https://ubuntu.com/download/desktop
 
 1. Search for ubuntu desktop
 2. Click `Download`
-![VMware_page](../images/圖2_1.png)
+![ubuntu](../images/圖2_1.png)
 
 ---
 
@@ -23,10 +23,14 @@ https://ubuntu.com/download/desktop
 
 1. Open Vmware workstation
 2. Click `File` and then `New Virtual Machine...`
-![Download_page](../images/圖2_2.png)
+![create_vm](../images/圖2_2.png)
 
-3. Find Vmware Workstation Pro. Click on it
-![Search_VMware_Workstation_Pro](../images/圖2_3.png)
+## Step 3: Configuration
+
+1. You may keep going on by clicking `next`.
+2. 
+![create_vm](../images/圖2_3.png)
 
 4. Choose any version
+
 ![Version](../images/圖2_4.png)
