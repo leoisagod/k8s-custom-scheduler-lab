@@ -25,6 +25,8 @@ https://ubuntu.com/download/desktop
 2. Click `File` and then `New Virtual Machine...`  
 ![create_vm](../images/圖2_2.png)
 
+---
+
 ## Step 3: Configuration
 
 1. Choose `Custom`  
@@ -56,6 +58,14 @@ https://ubuntu.com/download/desktop
 19. `Close` the widget  
 20. `Finish` the configuration  
 ![create_vm](../images/圖2_9.png)
-![create_vm](../images/圖2_10.png)  
-![create_vm](../images/圖2_11.png)
+
+---
+
+## Step 4: Intsall ubuntu
+
+1. Power on the virtual machine  
+![create_vm](../images/圖2_10.png)
+
+2. When you see the page, you may config the settings  
+![create_vm](../images/圖2_11.png)  
 ![create_vm](../images/圖2_12.png)  
