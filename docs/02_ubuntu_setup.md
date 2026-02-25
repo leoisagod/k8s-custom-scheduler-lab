@@ -34,9 +34,9 @@ https://ubuntu.com/download/desktop
 1. Keep clicking `next` until you see this page:
 2. Select `I will install the operating system later.` Then click `next`
 ![create_vm](../images/圖2_4.png)
-On this page:
-3. Select `Linux`
-4. Choose `Ubuntu-64-bit`
+On this page:  
+3. Select `Linux`  
+4. Choose `Ubuntu-64-bit`  
 ![create_vm](../images/圖2_5.png)
 ![create_vm](../images/圖2_6.png)
 ![create_vm](../images/圖2_7.png)
