@@ -27,10 +27,14 @@ https://ubuntu.com/download/desktop
 
 ## Step 3: Configuration
 
-1. You may keep going on by clicking `next`.
-2. 
+1. Choose `Custom`
+2. Click `next`
 ![create_vm](../images/圖2_3.png)
 
-4. Choose any version
-
-![Version](../images/圖2_4.png)
+1. Keep clicking `next` until this page:
+![create_vm](../images/圖2_4.png)
+![create_vm](../images/圖2_5.png)
+![create_vm](../images/圖2_6.png)
+![create_vm](../images/圖2_7.png)
+![create_vm](../images/圖2_8.png)
+![create_vm](../images/圖2_9.png)
