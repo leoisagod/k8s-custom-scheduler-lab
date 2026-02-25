@@ -43,4 +43,12 @@ https://ubuntu.com/download/desktop
 9. Refer to the following configuration:  
 ![create_vm](../images/圖2_7.png)  
 ![create_vm](../images/圖2_8.png)
+10. Config and click `next` until this page. Click `Customize Hardware...`  
+11. Find `New CD/DVD (SATA)`  
+12. Select `Use ISO image file:`  
+13. Click `Browse...`
+14. Find the file that we've download in **step 2**  
 ![create_vm](../images/圖2_9.png)
+![create_vm](../images/圖2_10.png)  
+![create_vm](../images/圖2_11.png)
+![create_vm](../images/圖2_12.png)  
