@@ -33,21 +33,28 @@ https://ubuntu.com/download/desktop
 
 3. Keep clicking `next` until you see this page:
 4. Select `I will install the operating system later.` Then click `next`
-![create_vm](../images/圖2_4.png)  
-5. Select `Linux`  
-6. Choose `Ubuntu-64-bit`. Then click `next`  
+![create_vm](../images/圖2_4.png)
+
+6. Select `Linux`  
+7. Choose `Ubuntu-64-bit`. Then click `next`  
 ![create_vm](../images/圖2_5.png)
-7. Name the virtual machine. Since we are setting up for Kubernetes cluster with one master node and one worker node. Name it with something related.
-8. Click `next`  
-![create_vm](../images/圖2_6.png)
-9. Refer to the following configuration:  
-![create_vm](../images/圖2_7.png)  
-![create_vm](../images/圖2_8.png)
-10. Config and click `next` until this page. Click `Customize Hardware...`  
-11. Find `New CD/DVD (SATA)`  
-12. Select `Use ISO image file:`  
-13. Click `Browse...`
-14. Find the file that we've download in **step 2**  
+
+9. Name the virtual machine. Since we are setting up for Kubernetes cluster with one master node and one worker node. Name it with something related.
+10. Click `next`  
+![create_vm](../images/圖2_6.png)  
+
+12. Refer to the following configuration:  
+![create_vm](../images/圖2_7.png)
+
+14. Config and click `next` until this page. Click `Customize Hardware...`  
+15. Find `New CD/DVD (SATA)`  
+16. Select `Use ISO image file:`  
+17. Click `Browse...`
+18. Find the file that we've download in **step 2**
+![create_vm](../images/圖2_8.png)  
+
+19. `Close` the widget  
+20. `Finish` the configuration  
 ![create_vm](../images/圖2_9.png)
 ![create_vm](../images/圖2_10.png)  
 ![create_vm](../images/圖2_11.png)
