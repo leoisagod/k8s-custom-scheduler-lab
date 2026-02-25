@@ -35,12 +35,12 @@ https://ubuntu.com/download/desktop
 4. Select `I will install the operating system later.` Then click `next`
 ![create_vm](../images/圖2_4.png)  
 5. Select `Linux`  
-6. Choose `Ubuntu-64-bit`. Then click `next`
+6. Choose `Ubuntu-64-bit`. Then click `next`  
 ![create_vm](../images/圖2_5.png)
 7. Name the virtual machine. Since we are setting up for Kubernetes cluster with one master node and one worker node. Name it with something related.
-8. Click `next`
+8. Click `next`  
 ![create_vm](../images/圖2_6.png)
-
-![create_vm](../images/圖2_7.png)
+9. Refer to the following configuration:  
+![create_vm](../images/圖2_7.png)  
 ![create_vm](../images/圖2_8.png)
 ![create_vm](../images/圖2_9.png)
