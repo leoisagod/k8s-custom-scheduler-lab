@@ -69,5 +69,5 @@ https://ubuntu.com/download/desktop
 2. When you see this page, you may config the settings whatever you want. Just notice the follows:
 3. It is recommended to install third-party software for graphics  
 ![create_vm](../images/圖2_11.png)
-4. Name the VM master or related name. We will use this VM as master node in the rest of the tutorial  
+4. Name the VM `master` or something related. We will use this VM as master node in the rest of the tutorial  
 ![create_vm](../images/圖2_12.png)  
