@@ -3,3 +3,4 @@ Hands-on guide to build a Kubernetes cluster on Ubuntu with Istio and custom sch
 ## Documentation
 
 - [01. VMware Setup](docs/01_vmware_setup.md)
+- [02. Ubuntu Setup](docs/02_ubuntu_setup.md)
