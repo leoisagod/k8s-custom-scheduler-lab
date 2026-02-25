@@ -1,4 +1,4 @@
-<img width="783" height="97" alt="image" src="https://github.com/user-attachments/assets/daa3e44c-60c9-4a83-8527-7ff7fbd2a042" /># 02. Ubuntu virtual machine setup
+# 02. Ubuntu virtual machine setup
 
 This guide demonstrates how to setup ubuntu VM on VMware Workstation 17
 
