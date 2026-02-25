@@ -1,4 +1,4 @@
-# 02. Ubuntu virtual machine setup
+# 02. Ubuntu Virtual Machine setup
 
 This guide demonstrates how to setup ubuntu VM on VMware Workstation 17
 
